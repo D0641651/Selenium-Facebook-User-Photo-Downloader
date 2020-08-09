@@ -4,7 +4,7 @@
 
 ```
 save_Path = "D:/aSelenumTmp"
-driverPath = "D://chromedriver.exe"
+driverPath = "D:/chromedriver.exe"
 
 your_email = ""
 your_password = ""
