@@ -10,7 +10,7 @@ your_email = ""
 your_password = ""
 
 ```
-if you want to download :  
+🥛if you want to download :  
 https://www.facebook.com/zuck  
 then =>  user_to_scrap = "zuck"
 ```
